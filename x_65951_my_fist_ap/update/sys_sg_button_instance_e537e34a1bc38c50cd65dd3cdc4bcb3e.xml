@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Issues)">ad37e34a1bc38c50cd65dd3cdc4bcb34</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Issues)</name>
+        <order/>
+        <parent>5137e34a1bc38c50cd65dd3cdc4bcb0f</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-20 12:04:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e537e34a1bc38c50cd65dd3cdc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Issues)</sys_name>
+        <sys_package display_value="My Fist Application" source="x_65951_my_fist_ap">3f56af861bc38c50cd65dd3cdc4bcba3</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="My Fist Application">3f56af861bc38c50cd65dd3cdc4bcba3</sys_scope>
+        <sys_update_name>sys_sg_button_instance_e537e34a1bc38c50cd65dd3cdc4bcb3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-20 12:04:51</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>
