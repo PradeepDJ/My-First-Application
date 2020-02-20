@@ -19,7 +19,7 @@
 
 }]]></script_true>
         <set_values/>
-        <short_description>Make Field Mandatory</short_description>
+        <short_description>Make all Fields Mandatory</short_description>
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-02-20 12:10:35</sys_created_on>
